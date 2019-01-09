@@ -1,0 +1,1 @@
+You can place your OCI API Key in this folder

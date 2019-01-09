@@ -1,0 +1,37 @@
+# DB Credentials
+credentials.txt
+/wallet/cwallet.sso
+/wallet/ewallet.p12
+/wallet/keystore.jks
+/wallet/ojdbc.properties
+/wallet/sqlnet.ora
+/wallet/tnsnames.ora
+/wallet/truststore.jks
+
+# OCI API Keys
+/oci_credentials/oci_api_key_public.pem
+/oci_credentials/oci_api_key.pem
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtualenv
+bin/
+include/
+lib/
+pip-selfcheck.json
+
+# Python/DB
+__pycache__
+.idea
+.Python
+cx_Oracle-doc/
+
+# System Files
+.DS_Store
